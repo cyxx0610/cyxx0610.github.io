@@ -7,5 +7,12 @@
 ## 興趣
 唱歌
 
+```C
+#include <stdio.h>
+int main()
+{
+  printf("Hello World");
+}
+
 
 
